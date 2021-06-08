@@ -19,7 +19,7 @@ To run our pretrained model on CMU_DoG:
 
 - To evaluate the model, run
 ```bash
-python dcdialog_movie.py
+python dcdial_movie.py
 ```
 
 

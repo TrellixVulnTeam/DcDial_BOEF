@@ -1,4 +1,4 @@
-# KnowledGPT
+# DcDial
 
 This is an implementation of our paper
 - Semantic-Oriented Knowledge-Aware Document-Grounded Conversation with GPT-2

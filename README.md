@@ -15,7 +15,7 @@ This is an implementation of our paper
 To run our pretrained model on CMU_DoG:
 
 - Download the preprocessed data from [here](https://drive.google.com/file/d/16SbW7fEiAjofMijMcDLiMgoeJxFTlMGY/view?usp=sharing).
-- Download the checkpoint from [here](https://drive.google.com/drive/folders/1N7nG0fZqd3eMr_zKt025yHNCk8l9jH4w?usp=sharing), then save to "runs/dcdialog"
+- Download the checkpoint from [here](https://drive.google.com/drive/folders/1N7nG0fZqd3eMr_zKt025yHNCk8l9jH4w?usp=sharing), then save to "runs/movie_gpt2_DcDial"
 
 - To evaluate the model, run
 ```bash

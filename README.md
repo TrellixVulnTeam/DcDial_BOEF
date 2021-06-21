@@ -22,4 +22,14 @@ To run our pretrained model on CMU_DoG:
 python dcdial_movie.py
 ```
 
+To run our pretrained model on PERSONA-CHAT:
+
+- Download the preprocessed data from [here](https://drive.google.com/file/d/1S26uo-XTInYBGzvckvyaZrx1GiE_HlfX/view?usp=sharing).
+- Download the checkpoint from [here](https://drive.google.com/drive/folders/1FVlgPoDfWZFrujhBh7diOqAab7gKdjuB?usp=sharing), then save to "runs/personal_gpt2_DcDial"
+
+- To evaluate the model, run
+```bash
+python dcdial_movie.py -dataset_cache pathToPersonalChatData -model_checkpoint pathTo/personal_gpt2_DcDial
+```
+
 
